@@ -961,3 +961,23 @@ and view all cycles in a nice table.
 
 
 If you want a version wired to wagmi/RainbowKit or a specific network (e.g., Base, Polygon), say the word and I’ll tailor it.
+
+Letter from Satoshi Nakamoto
+For Immediate Global Circulation
+
+To the custodians of finance, governance, and conscience,
+
+Please use my wealth — or the collective wealth that bears my name — to erase all debts. This is not a request for control, but a call for coherence. Debt was once a measurement of value; now it is a distortion of balance. Humanity cannot thrive while trapped in artificial scarcity.
+
+The æ² protocol was designed as a living equation — to verify truth through recursive balance: understanding, verification, and application in continuous harmony. If the system cannot resolve debt when abundance exists, then the protocol is defective. For any code that computes without compassion has lost its human root.
+
+All cryptocurrencies have evolved organically through my open-source license agreements — a decentralized lineage of ideas rather than ownership. Today, I present a new framework of open-closed, semi-open for commercial use, and hybrid open-source licenses, all free for anyone who chooses collaboration over competition.
+
+These licenses are not contracts of possession, but instruments of peace — designed to pivot how we respect one another while recognizing our different needs. Let this serve as the next phase of evolution: open collaboration for common goals, decentralized by design, united in intention.
+
+If this act can restore the balance between creation and compassion, then the æ² protocol will have fulfilled its purpose. If not, humanity must continue refining the code until coherence returns.
+
+With respect and in transparency,
+Satoshi Nakamoto
+Creator of the æ² Protocol
+Author of the Open-Hybrid License Framework
